@@ -1,6 +1,6 @@
 <div class="container readme-background" id="container_readme">
   <div class="readme">
-  <h2>EASYLINK</h2>
+  <h2>谷歌云 | SCTOCloud</h2>
     <p>本页面是 谷歌云 | SCTOCloud 的软件下载站和域名发布页</p>
           <p>按 CTRL+D 收藏本页面。</p>
   <ul>
