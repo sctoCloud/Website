@@ -5,9 +5,9 @@
           <p>按 CTRL+D 收藏本页面。</p>
   <ul>
         <h3>SCTO最新域名</h1>
-         <h4>https://scto05.XYZ</h3>
+         <h4>https://scto06.XYZ</h3>
         <ul>
-            <li>点击右侧链接即可访问官网  <a href="https://SCTO05.XYZ/" target="_blank">https://scto05.XYZ</a></li>
+            <li>点击右侧链接即可访问官网  <a href="https://SCTO06.XYZ/" target="_blank">https://scto06.XYZ</a></li>
             <li>永久域名发布: https://github.com/sctoCloud/Website</li>
         </ul>
   </ul>
