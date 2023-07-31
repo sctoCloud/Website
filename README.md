@@ -12,6 +12,6 @@
         </ul>
   </ul>
     <p>本以上方法均失效时, 可联系管理员邮箱:</p>
-    <p>sctocare@protonmail.com</p>
+    <p><a href="sctocare@protonmail.com" target="_blank">sctocare@protonmail.com</a></p>
   </div>
 </div>
