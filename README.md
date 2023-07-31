@@ -5,10 +5,11 @@
           <p>按 CTRL+D 收藏本页面。</p>
   <ul>
         <h3>SCTO最新域名</h1>
-         <h4>https://www.sctocloud.com</h3>
+         <h4>https://www.sctocloud.com</h4>
         <ul>
             <li>点击右侧链接即可访问官网  <a href="https://www.sctocloud.com/" target="_blank">https://www.sctocloud.com</a></li>
             <li>永久域名发布: https://github.com/sctoCloud/Website</li>
+         <h4>以上方法均失效时, 可联系管理员邮箱: sctocare@protonmail.com</h4>
         </ul>
   </ul>
   </div>
