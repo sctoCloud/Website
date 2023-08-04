@@ -5,7 +5,8 @@
   <div class="readme">
   <h2>古歌云 | sctoCloud 信息更新</h2>
     <p>本页面用于发布最新信息, 请按 CTRL+D 收藏本页面 或 星标本项目</p>
-    <p>请同时**收藏**下列网址 **作为备份**: https://gitlab.com/sctocloud/info</p>
+    <p>请同时收藏下列网址 作为备份:</p>
+    <p>https://gitlab.com/sctocloud/info</p>
     
   <ul>
     <h3>最新域名:</h3>
