@@ -8,13 +8,13 @@
     <p>备用项目仓库: https://gitlab.com/sctocloud/info</p>
     
   <ul>
-    <h3>最新域名:</h3>
+    <h5>最新域名:</h5>
       https://www.sctocloud.com
-    <h3>永久域名:</h3>
+    <h5>永久域名:</h5>
       https://scto.xyz
-  </ul>
-    <p>本以上方法均失效时, 可联系管理员邮箱:</p>
+    <h5>本以上方法均失效时, 可联系管理员邮箱:</h5>
     sctocare@protonmail.com
+  </ul>
   </div>
 </div>
 
